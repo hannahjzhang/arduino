@@ -10,3 +10,4 @@ Mini-projects: <br>
 `Keyboard Instrument:` playing music notes when keys are pressed <br>
 `Digital Hourglass:` using six lights as a stopwatch <br>
 `Motorized Pinwheel:` controlling motors with a switch <br>
+`Zoetrope:` using motors to create an animation
